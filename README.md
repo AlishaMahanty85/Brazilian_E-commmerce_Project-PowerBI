@@ -41,28 +41,28 @@ To extract advanced insights beyond just sales metrics by answering operational 
 
 ## 📌 Key Insights
 
-✅ [*Customer Experience*](Customers_Experience_Insights.pdf)
+✅ [*Customer Experience*](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Customers_Experience_Insights.pdf)
 - Over 58% of reviews are 5-star rated, indicating strong customer satisfaction.  
 - Sentiment analysis reveals positive feedback is most common in high-performing categories.  
 - Response time to reviews is fastest in top-tier metro regions.  
 - Northeast Brazil shows higher review volatility with more mixed ratings.  
 - Some categories like “computers accessories” receive lower average ratings despite high sales.  
 
-✅ [*Delivery & Logistics Performance*](Delivery_Performance_Insights.pdf)
+✅ [*Delivery & Logistics Performance*](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Delivery_Logistics_Performance_Insights.pdf)
 - Actual delivery averages ~12 days vs. the estimated ~24 days.  
 - South and Northeast regions face the most frequent delays.  
 - Standard shipping methods are associated with higher late delivery percentages.  
 - Delivery delays peak during holidays and sales periods (e.g., November).  
 - Cities with multiple sellers show more efficient delivery performance.  
 
-✅ [*Product & Category Operations*](Product_Operations_Insights.pdf)
+✅ [*Product & Category Operations*](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Product_Category_Operations_Insights.pdf)
 - “Bed_Bath_Table” and “Furniture” categories generate high revenue but have high complaint ratios.  
 - Shipping heavier items correlates with more delays and lower satisfaction.  
 - Some categories have high volume but low profitability due to pricing strategies.  
 - The “Watches_Gifts” category shows high returns despite small order value.  
 - Products with longer dimensions tend to incur higher shipping costs and lower sentiment.  
 
-✅ [*Payment Behavior Analysis*](Payment_Behavior_Insights.pdf)
+✅ [*Payment Behavior Analysis*](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Payment_Behavior_Analysis_Insights.pdf)
 - Credit card is the most preferred payment method, used in over 60% of orders.  
 - Installment payments are mainly used for high-value purchases in Southeast Brazil.  
 - Single payments dominate in low-value and low-income regions.  
@@ -72,11 +72,12 @@ To extract advanced insights beyond just sales metrics by answering operational 
 ---
 
 ## 🛠 Tools Used
-- *Power BI*
-- *DAX*
-- *Data Modeling*
-- *Data Cleaning*
-- *Olist E-commerce Dataset*
+- Power BI
+- Power Query Editor
+- Data Modeling
+- DAX
+- ETL Process
+- Dashboarding
 
 ---
 
@@ -84,12 +85,12 @@ To extract advanced insights beyond just sales metrics by answering operational 
 
 | Dashboard | Preview |
 |----------|---------|
-| Customer Experience | ![Customer Experience](Customer_Experience.png) |
-| Delivery Performance | ![Delivery Performance](Delivery_Performance.png) |
-| Product Operations | ![Product Operations](Product_Operations.png) |
-| Payment Behavior | ![Payment Behavior](Payment_Behavior.png) |
+| Customer Experience | ![Customer Experience](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Customer_Experience.png) |
+| Delivery Performance | ![Delivery Performance](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Delivery_Logistics_Performance.png) |
+| Product Operations | ![Product Operations](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Product_Category_Operations.png) |
+| Payment Behavior | ![Payment Behavior](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Payment_Behavior_Analysis.png) |
 
 ---
 
 ## 📊 *Power BI Dashboard:*
-[Download Olist E-commerce Power BI Dashboard (.pbix)](./Olist_E-commerce_Project.pbix)
+[Download Olist E-commerce Power BI Dashboard (.pbix)]
