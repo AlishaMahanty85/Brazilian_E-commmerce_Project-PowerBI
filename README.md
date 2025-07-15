@@ -1,6 +1,6 @@
 # 📊 Olist E-commerce Insights Dashboards
 
-This Power BI project analyzes various aspects of the Olist e-commerce platform, covering *Customer Experience, **Delivery & Logistics Performance, **Product Category Operation, **Payment Behavior Analysis* using real-world data.
+This Power BI project analyzes various aspects of the Olist e-commerce platform, covering *Customer Experience*, *Delivery & Logistics Performance*, *Product Category Operation*, *Payment Behavior Analysis* using real-world data.
 
 ---
 
