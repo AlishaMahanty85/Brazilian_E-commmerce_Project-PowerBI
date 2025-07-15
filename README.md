@@ -85,10 +85,10 @@ To extract advanced insights beyond just sales metrics by answering operational 
 
 | Dashboard | Preview |
 |----------|---------|
-| Customer Experience | ![Customer Experience](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Customer_Experience.png) |
-| Delivery Performance | ![Delivery Performance](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Delivery_Logistics_Performance.png) |
-| Product Operations | ![Product Operations](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Product_Category_Operations.png) |
-| Payment Behavior | ![Payment Behavior](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Payment_Behavior_Analysis.png) |
+| Customer Experience Insights | ![Customer Experience](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Customer_Experience.png) |
+| Delivery & Logistics Performance | ![Delivery Performance](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Delivery_Logistics_Performance.png) |
+| Product Category Operations | ![Product Operations](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Product_Category_Operations.png) |
+| Payment Behavior Analysis | ![Payment Behavior](https://github.com/AlishaMahanty85/Brazilian_E-commmerce_Project-PowerBI/blob/main/Payment_Behavior_Analysis.png) |
 
 ---
 
