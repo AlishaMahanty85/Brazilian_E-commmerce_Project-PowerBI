@@ -93,4 +93,4 @@ To extract advanced insights beyond just sales metrics by answering operational 
 ---
 
 ## 📊 *Power BI Dashboard:*
-[Download Olist E-commerce Power BI Dashboard (.pbix)]
+[Download Olist E-commerce Power BI Dashboard (.pbix)](https://github.com/AlishaMahanty85/Brazilian_E-commerce_Project-PowerBI/blob/main/Olist_E-commerce_Project.pbix)
